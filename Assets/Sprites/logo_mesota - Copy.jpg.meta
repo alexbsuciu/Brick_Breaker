@@ -1,0 +1,764 @@
+fileFormatVersion: 2
+guid: 98c5145b0c991154aae49f4a3a0f9f77
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: logo_mesota - Copy_0
+  - first:
+      213: 21300002
+    second: logo_mesota - Copy_1
+  - first:
+      213: 21300004
+    second: logo_mesota - Copy_2
+  - first:
+      213: 21300006
+    second: logo_mesota - Copy_3
+  - first:
+      213: 21300008
+    second: logo_mesota - Copy_4
+  - first:
+      213: 21300010
+    second: logo_mesota - Copy_5
+  - first:
+      213: 21300012
+    second: logo_mesota - Copy_6
+  - first:
+      213: 21300014
+    second: logo_mesota - Copy_7
+  - first:
+      213: 21300016
+    second: logo_mesota - Copy_8
+  - first:
+      213: 21300018
+    second: logo_mesota - Copy_9
+  - first:
+      213: 21300020
+    second: logo_mesota - Copy_10
+  - first:
+      213: 21300022
+    second: logo_mesota - Copy_11
+  - first:
+      213: 21300024
+    second: logo_mesota - Copy_12
+  - first:
+      213: 21300026
+    second: logo_mesota - Copy_13
+  - first:
+      213: 21300028
+    second: logo_mesota - Copy_14
+  - first:
+      213: 21300030
+    second: logo_mesota - Copy_15
+  - first:
+      213: 21300032
+    second: logo_mesota - Copy_16
+  - first:
+      213: 21300034
+    second: logo_mesota - Copy_17
+  - first:
+      213: 21300036
+    second: logo_mesota - Copy_18
+  - first:
+      213: 21300038
+    second: logo_mesota - Copy_19
+  - first:
+      213: 21300040
+    second: logo_mesota - Copy_20
+  - first:
+      213: 21300042
+    second: logo_mesota - Copy_21
+  - first:
+      213: 21300044
+    second: logo_mesota - Copy_22
+  - first:
+      213: 21300046
+    second: logo_mesota - Copy_23
+  - first:
+      213: 21300048
+    second: logo_mesota - Copy_24
+  - first:
+      213: 21300050
+    second: logo_mesota - Copy_25
+  - first:
+      213: 21300052
+    second: logo_mesota - Copy_26
+  - first:
+      213: 21300054
+    second: logo_mesota - Copy_27
+  - first:
+      213: 21300056
+    second: logo_mesota - Copy_28
+  - first:
+      213: 21300058
+    second: logo_mesota - Copy_29
+  - first:
+      213: 21300060
+    second: logo_mesota - Copy_30
+  - first:
+      213: 21300062
+    second: logo_mesota - Copy_31
+  - first:
+      213: 21300064
+    second: logo_mesota - Copy_32
+  - first:
+      213: 21300066
+    second: logo_mesota - Copy_33
+  - first:
+      213: 21300068
+    second: logo_mesota - Copy_34
+  - first:
+      213: 21300070
+    second: logo_mesota - Copy_35
+  - first:
+      213: 21300072
+    second: logo_mesota - Copy_36
+  - first:
+      213: 21300074
+    second: logo_mesota - Copy_37
+  - first:
+      213: 21300076
+    second: logo_mesota - Copy_38
+  - first:
+      213: 21300078
+    second: logo_mesota - Copy_39
+  - first:
+      213: 21300080
+    second: logo_mesota - Copy_40
+  - first:
+      213: 21300082
+    second: logo_mesota - Copy_41
+  - first:
+      213: 21300084
+    second: logo_mesota - Copy_42
+  - first:
+      213: 21300086
+    second: logo_mesota - Copy_43
+  - first:
+      213: 21300088
+    second: logo_mesota - Copy_44
+  - first:
+      213: 21300090
+    second: logo_mesota - Copy_45
+  - first:
+      213: 21300092
+    second: logo_mesota - Copy_46
+  - first:
+      213: 21300094
+    second: logo_mesota - Copy_47
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 160
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: logo_mesota - Copy_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 160
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5e09314fa801854a9628339560630b6
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_mesota - Copy_1
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 576
+        width: 160
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ca85af544a54234aa2911936c018715
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_mesota - Copy_2
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 576
+        width: 160
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1ff1feb7bd529940b67e1b54ccdb35a
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_mesota - Copy_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 494
+        width: 160
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f181b971e9b9bbc4d88f2bb76089dacd
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_mesota - Copy_4
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 494
+        width: 160
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4e18ad21b5806444894256694f9238f
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_mesota - Copy_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 494
+        width: 160
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76d01c06661334245855b8507db69f1d
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_mesota - Copy_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 412
+        width: 160
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08199b9e2373b2c46a14fd0b1a89d1c4
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_mesota - Copy_7
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 412
+        width: 160
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e09d6359dcaf7a43bbabfaeabf66761
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_mesota - Copy_8
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 412
+        width: 160
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 843ea9e592c94774198e799e1b4f8bc8
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_mesota - Copy_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 330
+        width: 160
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a43469a793eee1a41b33d342df329d58
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_mesota - Copy_10
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 330
+        width: 160
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10651b4d378c7a54aaceeeae750b5da2
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_mesota - Copy_11
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 330
+        width: 160
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef28fd77f5050f542a5e82b0bac2dd56
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_mesota - Copy_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 248
+        width: 160
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56292bd78727740479f5dad54c1c02d2
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_mesota - Copy_13
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 248
+        width: 160
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46a3cab7582f4054fb866e2b1542d1b6
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_mesota - Copy_14
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 248
+        width: 160
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38348b05f1872544a8bcb157c5327add
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_mesota - Copy_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 166
+        width: 160
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a93715dae077d349a85a5d613df4658
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_mesota - Copy_16
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 166
+        width: 160
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05b5cdb2c015ac94e894e6f6a0138f7d
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_mesota - Copy_17
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 166
+        width: 160
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42d3768505906df4496557942c418136
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_mesota - Copy_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 84
+        width: 160
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05c9af9e4eb52c648a3f507d09b805f5
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_mesota - Copy_19
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 84
+        width: 160
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a907e587d89ad3d4983ae1f460f6c09e
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_mesota - Copy_20
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 84
+        width: 160
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b1e7d514ab00b54e80ca53f43469b0d
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_mesota - Copy_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 160
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2da1548681ae1524fbbc3fe3283fadf5
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_mesota - Copy_22
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 2
+        width: 160
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fe28323c2d0ac146983179b700b6127
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_mesota - Copy_23
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 2
+        width: 160
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c2f3925cd3df664791144e840b5b21a
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 174ad8c9e7feebe42adb75f384a2a323
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
